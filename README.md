@@ -1,3 +1,14 @@
 # Austin Machine ML Journal Club Blog
 
-This is the repository for Austin Machine Learning (ML) Journal Club blog. This blog is a [Quarto](https://quarto.org/) website.
+This is the repository for Austin Machine Learning (ML) Journal Club blog. This blog is a [Quarto](https://quarto.org/) website and uses [GitHub Pages](https://pages.github.com/) as a hosting service.
+
+## How to start blogging
+
+1. Install [Quarto](https://quarto.org/). I used the VS code option.
+2. Clone this blog repository
+3. Create a new branch.
+   - We plan to adopt a **peer-review policy** for all our posts. Members who were either presented at the meeting or who read the paper will become the reviewers of a `paper` post.
+   - Since all posts are built from the `main` branch, authors need to create their own branch to create a new post. Once done, authors can submit a pull request to start the review process.
+   - During the review process, members can comment on the manuscript or on any missing discussions during the meeting. Once the review is done, the branch will be merge to `main` and it will be automatically published.
+4. To create a new post, create a folder under `/docs/posts` and add an `index.qmd` file to the directory (see [Creating a Blog](https://quarto.org/docs/websites/website-blog.html) from Quarto docs for more information on how to create a post using `.qmd` format).
+5. Render your post locally to check how your post would look like. You can simply run `quarto render` and check `index.html`.
