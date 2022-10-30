@@ -1,0 +1,10 @@
+---
+title: "First post"
+author: "Hongsup Shin"
+date: "2022-10-27"
+categories: [news]
+# image: data_cascade.png
+---
+
+This is the first post. Welcome!
+

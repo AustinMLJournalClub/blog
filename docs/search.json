@@ -1,30 +1,30 @@
 [
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "posts/First post/index.html",
+    "href": "posts/First post/index.html",
+    "title": "First post",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "This is the first post. Welcome!"
   },
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "title": "Welcome To Austin ML Journal Club",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "This is the first post. Welcome!"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "blog_template",
+    "title": "Austin ML Journal Club",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nOct 29, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 26, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "First post\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 27, 2022\n\n\nHongsup Shin\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To Austin ML Journal Club\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 27, 2022\n\n\nHongsup Shin\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "This is a blog for Austin ML Journal Club. We are a small group of ML practitioners based in Austin, TX, USA. We are a diverse group with various backgrounds and interests. We are interested in learning state-of-the-art ML techniques and best practices from papers and also from each other. We kicked off our first meeting in Oct, 2022."
   }
 ]

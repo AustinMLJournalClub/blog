@@ -16,4 +16,4 @@ about:
 
 ---
 
-About this blog
+This is a blog for Austin ML Journal Club. We are a small group of ML practitioners based in Austin, TX, USA. We are a diverse group with various backgrounds and interests. We are interested in learning state-of-the-art ML techniques and best practices from papers and also from each other. We kicked off our first meeting in Oct, 2022.
