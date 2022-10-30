@@ -3,18 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "blog_template"
+  title: "Austin ML Journal Club"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://austinmljournalclub.github.io/blog/
       - icon: twitter
         href: https://twitter.com
 format:
   html:
     theme: cosmo
     css: styles.css
-
+execute:
+  freeze: auto
 
 
