@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "posts/First post/index.html",
-    "href": "posts/First post/index.html",
-    "title": "First post",
-    "section": "",
-    "text": "This is the first post. Welcome!"
-  },
-  {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Welcome To Austin ML Journal Club",
@@ -14,17 +7,24 @@
     "text": "This is the first post. Welcome!"
   },
   {
+    "objectID": "posts/20221027/index.html",
+    "href": "posts/20221027/index.html",
+    "title": "test",
+    "section": "",
+    "text": "This is a test post."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Austin ML Journal Club",
     "section": "",
-    "text": "First post\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 27, 2022\n\n\nHongsup Shin\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To Austin ML Journal Club\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 27, 2022\n\n\nHongsup Shin\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome To Austin ML Journal Club\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 27, 2022\n\n\nHongsup Shin\n\n\n\n\n\n\n\n\ntest\n\n\n\n\n\n\n\npaper\n\n\n\n\n\n\n\n\n\n\n\nOct 27, 2022\n\n\nHongsup Shin\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "This is a blog for Austin ML Journal Club. We are a small group of ML practitioners based in Austin, TX, USA. We are a diverse group with various backgrounds and interests. We are interested in learning state-of-the-art ML techniques and best practices from papers and also from each other. We kicked off our first meeting in Oct, 2022."
+    "text": "This is a blog space for Austin ML Journal Club. We are a small group of ML practitioners based in Austin, TX. We are a diverse group with various backgrounds and interests. We are interested in learning state-of-the-art ML techniques and best practices from papers and also from each other. We kicked off our first meeting in Oct, 2022."
   }
 ]
