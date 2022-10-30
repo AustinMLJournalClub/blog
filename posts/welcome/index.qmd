@@ -1,12 +1,12 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2022-10-26"
+title: "Welcome To Austin ML Journal Club"
+author: "Hongsup Shin"
+date: "2022-10-27"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+This is the first post. Welcome!
 
 ![](thumbnail.jpg)
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+<!-- Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts. -->

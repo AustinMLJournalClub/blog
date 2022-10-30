@@ -1,5 +1,5 @@
 ---
-title: "blog_template"
+title: "Austin ML Journal Club"
 listing:
   contents: posts
   sort: "date desc"
