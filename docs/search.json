@@ -1,30 +1,23 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To Austin ML Journal Club",
+    "objectID": "posts/Welcome/index.html",
+    "href": "posts/Welcome/index.html",
+    "title": "Why ML Journal Club",
     "section": "",
-    "text": "This is the first post. Welcome!"
-  },
-  {
-    "objectID": "posts/20221027/index.html",
-    "href": "posts/20221027/index.html",
-    "title": "test",
-    "section": "",
-    "text": "This is a test post."
+    "text": "In machine learning (ML) community, numerous research papers and new tools come out everyday. For an individual ML practitioner like myself, it is impossible to check every paper and tool, and it is also difficult to know what works and what doesn’t. There are several weekly ML newsletters that provide a summary but I still need to carve out time after work to digest it. Besides, I prefer reading the papers in depth to examine how they exactly work and whether there are any flaws. But of course reading and critiquing papers on a regular basis requires discipline and dedication.\nThis is where a journal club can be useful. A group of people reading and dissecting papers together and having a discussion about them is certainly more fun and educational than doing everything alone. In a journal club, participants usually take turns to present a paper, which makes things easy. We can also hold each other accountable so that we as a group read papers on a consistent pace. Finally, the gathering itself becomes a good networking and information-sharing opportunity.\nI have gather a group of my fellow ML practitioner friends in Austin that I have known personally for several years. We are a diverse group of engineers and researchers with different interests and backgrounds. I am really excited to participate in this journal club with these brilliant friends to critique papers together, share our own practices at work, and socialize."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Austin ML Journal Club",
     "section": "",
-    "text": "test\n\n\n\n\n\n\n\npaper\n\n\n\n\n\n\n\n\n\n\n\nOct 27, 2022\n\n\nHongsup Shin\n\n\n\n\n\n\n\n\nWelcome To Austin ML Journal Club\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 17, 2022\n\n\nHongsup Shin\n\n\n\n\n\n\nNo matching items"
+    "text": "Why ML Journal Club\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 17, 2022\n\n\nHongsup Shin\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "This is a blog space for Austin ML Journal Club. We are a small group of ML practitioners based in Austin, TX. We are a diverse group with various backgrounds and interests. We are interested in learning state-of-the-art ML techniques and best practices from papers and also from each other. We kicked off our first meeting in Oct, 2022."
+    "text": "Member introduction"
   }
 ]
