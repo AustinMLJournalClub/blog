@@ -1,8 +1,14 @@
 ---
-title: "Welcome To Austin ML Journal Club"
+title: "Why ML Journal Club"
 author: "Hongsup Shin"
 date: "2022-10-17"
 categories: [news]
 ---
 
-This is the first post. Welcome!
+In machine learning (ML) community, numerous research papers and new tools come out everyday. For an individual ML practitioner like myself, it is impossible to check every paper and tool, and it is also difficult to know what works and what doesn't. There are several weekly ML newsletters that provide a summary but I still need to carve out time after work to digest it. Besides, I prefer reading the papers in depth to examine how they exactly work and whether there are any flaws. But of course reading and critiquing papers on a regular basis requires discipline and dedication.
+
+This is where a journal club can be useful. A group of people reading and dissecting papers together and having a discussion about them is certainly more fun and educational than doing everything alone. In a journal club, participants usually take turns to present a paper, which makes things easy. We can also hold each other accountable so that we as a group read papers on a consistent pace. Finally, the gathering itself becomes a good networking and information-sharing opportunity.
+
+I have gather a group of my fellow ML practitioner friends in Austin that I have known personally for several years. We are a diverse group of engineers and researchers with different interests and backgrounds. I am really excited to participate in this journal club with these brilliant friends to critique papers together, share our own practices at work, and socialize.
+
+
