@@ -12,4 +12,5 @@ This is the repository for Austin Machine Learning (ML) Journal Club blog. This 
    - During the review process, members can comment on the manuscript or on any missing discussions during the meeting. Once the review is done, the branch will be merge to `main` and it will be automatically published.
 4. To create a new post, create a folder under `/docs/posts` and add an `index.qmd` file to the directory (see [Creating a Blog](https://quarto.org/docs/websites/website-blog.html) from Quarto docs for more information on how to create a post using `.qmd` format).
    - Use [`quarto preview`](https://quarto.org/docs/computations/python.html#workflow) to set up a live preview of changes in your post.
-5. Once you are done with your post, make a pull request from your branch to `main`, ans assign reviewers.
+5. Once you are done with your post, make a pull request from your branch to `main`, and assign reviewers.
+6. Once the review is finished, the pull request is merged and the post is published.
